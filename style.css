@@ -13,7 +13,7 @@ ul {
     margin-left: auto;
  }
 
- img{
+  header img{
     border-radius:50%;
     height: 10vh;
     width: 10vh;
@@ -33,5 +33,14 @@ ul {
 
  .about img{
    height:auto
+ }
+
+ .city img{
+  border-radius: 50%;
+  width:20vw;
+ }
+
+ .city h2{
+  text-align: center;
  }
 
