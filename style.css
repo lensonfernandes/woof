@@ -27,3 +27,11 @@ ul {
    background-position: center;
  }
 
+ .about img, .about .sa-right{
+   width: 40vw;
+ }
+
+ .about img{
+   height:auto
+ }
+
