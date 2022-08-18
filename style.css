@@ -5,19 +5,19 @@ body{
 ul {
     list-style-type: none;
     gap:20px;
-    font-size: 1.5em;
+    /* font-size: 1.5em; */
     
  }
 
- .home1{
+ /* .home1{
     margin-left: auto;
- }
+ } */
 
-  header img{
+  /* header img{
     border-radius:50%;
     height: 10vh;
     width: 10vh;
- }
+ } */
 
  .s2{
    height:80vh;
