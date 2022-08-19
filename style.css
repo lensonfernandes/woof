@@ -27,13 +27,13 @@ ul {
    background-position: center;
  }
 
- .about img, .about .sa-right{
+ /* .about img, .about .sa-right{
    width: 40vw;
- }
+ } */
 
- .about img{
+ /* .about img{
    height:auto
- }
+ } */
 
  .city img{
   border-radius: 50%;
@@ -46,7 +46,7 @@ ul {
 
  @media only screen and (max-device-width: 480px) {
 
-  /* .s2 {
+  .s2 {
     padding-top: 20px;
   }
- } */
+ } 
